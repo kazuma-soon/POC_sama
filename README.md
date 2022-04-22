@@ -29,7 +29,7 @@
     しかしながら、具体的な方向性があれば伺いたい。そしてエンジニアにはどのような制作・貢献を求めているか。
 </details>
     
-<details>
+<details open>
     <summary>小ロット対応について</summary>
     
     小ロットは100個程度にも対応する予定？canalの箱なら500以上、袋なら3000以上の規定は、小規模な個人ブランドにはなかなかハードルが高い気がする。
@@ -138,10 +138,7 @@
 
 masonry.jsとあとなんだろう？
 
-|![aa01](https://user-images.githubusercontent.com/88179125/164757263-b7bf8010-d937-437c-b502-78ed839b6014.gif)|![aa02](https://user-images.githubusercontent.com/88179125/164757286-5a5c1edd-9f1b-4c58-9230-f990b8b39d23.gif)|![aa03](https://user-images.githubusercontent.com/88179125/164757420-676162ac-b90e-4913-80ed-39bdce2a407a.gif)
-|
-
-
+|![aa02](https://user-images.githubusercontent.com/88179125/164757286-5a5c1edd-9f1b-4c58-9230-f990b8b39d23.gif)|![aa03](https://user-images.githubusercontent.com/88179125/164757420-676162ac-b90e-4913-80ed-39bdce2a407a.gif)|
 
 - Tinder的なスワイプアイデア
 
@@ -159,8 +156,6 @@ masonry.jsとあとなんだろう？
 - ブランドがパッケージに求める要素は他に何があるか
     
     サービス扱いやすさ。めんどくさいイメージを吹き飛ばす。
-    
-- 
 
 ## 事業内容
 
