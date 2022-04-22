@@ -27,6 +27,13 @@
     <summary>製造を自社設備で完結できるファクトリーをどうやって選んで・見つけているのか？</summary>
     
     多重下請け構造のパッケージ製造業界。求めるファクトリーを見つけ出すのは至難の業。どうやって選んでいるのか？
+    SS a.k.a POC03様の豊富な経験と人脈か？
+</details>
+
+<details open>
+    <summary>広告に強みがある？</summary>
+    
+    メンバー３名の共通点が「広告」であるところが印象的。
 </details>
     
 <details open>
@@ -191,12 +198,27 @@ masonry.jsとあとなんだろう？
 
 ## メンバー
 <details open>
-    <summary>Kobayashi Daiki様　（DK a.k.a POC01）</summary>
+    <summary>Kobayashi Daiki様　（DK a.k.a POC01様）</summary>
 
     - 東北大学・大学院で建築デザインを専攻
     - 大手広告代理店でブランドストラテジストとして勤務。アートとロジックを行き来し、ブランディングで活躍。
 </details>
 
+<details open>
+    <summary>ARATSU Hirotaka様 (HA a.k.a POC02様)</summary>
+    
+    - 九州大学・大学院でプロダクト・パブリックデザインを中心に専攻。ユーザー感性学を修学。
+    - 大手広告代理店でイノベーションプランナーとして勤務。
+    - 現在はUI/UX, オペレーション開発を担う。
+</details>
+
+<details open>
+    <summary>SS a.k.a POC03様</summary>
+    
+    - 印刷会社・広告制作プロダクションに従事
+    - 印刷会社との豊富なネットワーク。
+    - 各印刷物に合わせた工程フロー設計と構築を得意とする。
+</details>
     
 ## 競合他者
 
